@@ -30,10 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/chitinghou/Chrips">
-    <img src="./readme_img1.png" alt="Logo" width="80" height="80">
-  </a>
-
+  
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
   <h3 align="center">Chrips</h3>
 
   <p align="center">
@@ -79,8 +77,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Welcome to Chirper - a place where you can share your thoughts, interact with others, and explore a world of microblogs. Chirper is not just another blogging platform; it's a community where every voice matters.
 
 Why Chirper?
@@ -122,25 +118,24 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/chitinghou/Chrips.git
    ```
-3. Install Composer packages
+2. Install Composer packages
    ```sh
    composer install
    ```
-4. Install NPM packages
+3. Install NPM packages
    ```sh
    npm install
    ```
-5. Copy .env.example to .env and configure your environment
-6. Generate an application key
+4. Copy .env.example to .env and configure your environment
+5. Generate an application key
    ```sh
    php artisan key:generate
    ```
-7. Migrate the database
+6. Migrate the database
    ```sh
    php artisan migrate
    ```
@@ -236,7 +231,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/chitinghou/Chrips.svg?style=for-the-badge
 [license-url]: https://github.com/chitinghou/Chrips/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/chitinghou
+[linkedin-url]: https://www.linkedin.com/in/chi-ting-hou-b974151b2/
 [product-screenshot]: /readme_img1.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
