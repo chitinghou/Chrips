@@ -35,7 +35,7 @@
   <h3 align="center">Chrips</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome blogging platform to share your thoughts with the world,
     <br />
     <a href="https://github.com/chitinghou/Chrips"><strong>Explore the docs »</strong></a>
     <br />
